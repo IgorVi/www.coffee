@@ -1,0 +1,17 @@
+
+header nav{
+	background:#94806f;
+}
+header nav ul li a{
+	color:#e5e3cf;
+}
+header nav ul li a:hover{
+	color:#dcdac8;
+	background:#a08b79;
+}
+header, #wrap, footer{
+	background:#f3f2e8
+}
+#wrap{
+	overflow:hidden;
+}
